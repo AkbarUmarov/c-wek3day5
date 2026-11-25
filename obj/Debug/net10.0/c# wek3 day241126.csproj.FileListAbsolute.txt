@@ -1,0 +1,14 @@
+C:\c# wek3 day241126\obj\Debug\net10.0\c# wek3 day241126.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# wek3 day241126\obj\Debug\net10.0\c# wek3 day241126.AssemblyInfoInputs.cache
+C:\c# wek3 day241126\obj\Debug\net10.0\c# wek3 day241126.AssemblyInfo.cs
+C:\c# wek3 day241126\obj\Debug\net10.0\c# wek3 day241126.csproj.CoreCompileInputs.cache
+C:\c# wek3 day241126\bin\Debug\net10.0\c# wek3 day241126.exe
+C:\c# wek3 day241126\bin\Debug\net10.0\c# wek3 day241126.deps.json
+C:\c# wek3 day241126\bin\Debug\net10.0\c# wek3 day241126.runtimeconfig.json
+C:\c# wek3 day241126\bin\Debug\net10.0\c# wek3 day241126.dll
+C:\c# wek3 day241126\bin\Debug\net10.0\c# wek3 day241126.pdb
+C:\c# wek3 day241126\obj\Debug\net10.0\c# wek3 day241126.dll
+C:\c# wek3 day241126\obj\Debug\net10.0\refint\c# wek3 day241126.dll
+C:\c# wek3 day241126\obj\Debug\net10.0\c# wek3 day241126.pdb
+C:\c# wek3 day241126\obj\Debug\net10.0\c# wek3 day241126.genruntimeconfig.cache
+C:\c# wek3 day241126\obj\Debug\net10.0\ref\c# wek3 day241126.dll
